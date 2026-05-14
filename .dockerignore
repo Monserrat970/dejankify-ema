@@ -1,0 +1,16 @@
+.git
+.gitignore
+.next
+coverage
+node_modules
+npm-debug.log*
+Dockerfile*
+docker-compose.yml
+.env
+.env.local
+.env.*.local
+README.md
+DEPLOY.md
+VERCEL.md
+WILDCARD.md
+FLY.md
