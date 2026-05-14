@@ -2,7 +2,7 @@
 
 > **Note:** Rename this file to match the service you used (e.g., `FLY.md`, `RENDER.md`, `RAILWAY.md`).
 
-**Service Used:** <!-- e.g., Fly.io, Render, Railway -->  
+**Service Used:** <!-- e.g., Fly.io, Render, Railway -->
 **Team Members:** <!-- List the name(s) of who worked on this deployment -->
 
 ---
